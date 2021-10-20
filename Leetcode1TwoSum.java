@@ -47,6 +47,7 @@ public class Leetcode1TwoSum  {
                 return result;
             }
         }
+        
         // Did not find
         return -1;
     }
